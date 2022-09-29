@@ -1,2 +1,2 @@
 # Embedded
-Kiến thúc về lập trình nhúng
+Kiến thúc về lập trình hệ thống nhúng
